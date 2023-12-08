@@ -1,0 +1,10 @@
+{
+  "german": {
+    "path": "alphabets/german.json",
+    "label": "German"
+  },
+  "nato": {
+    "path": "alphabets/nato.json",
+    "label": "NATO"
+  }
+}
