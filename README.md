@@ -5,3 +5,5 @@
 *\- wikipedia*
 
 Albert Bernhard Cäsar is a simple react app that helps you spell your coupon codes on the phone.
+
+[Try it out!](https://depie.github.io/albert-bernhard-caesar/)
